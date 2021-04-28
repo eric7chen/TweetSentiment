@@ -1,0 +1,3 @@
+txt = input("Type something to test this out: ")
+
+print("Is this waht you just said? ", txt)

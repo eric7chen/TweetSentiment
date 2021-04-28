@@ -1,0 +1,40 @@
+State,Governor,Vote share,Twitter Handle,Number of Tweets,neg_tweets,pos_tweets,sentiment_num,sentiment
+Alabama,Kate Ivey,0.596,kayiveyforgov,188,39,149,0.585106383,positive
+Alaska,Mike Dunleavey,0.519,mikedunleavygov,0,0,0,0,neutral
+Arizona,Doug Ducey,0.56,dougducey,2052,427,1625,0.583820663,positive
+Arkansas,Asa Hutchinson,0.653,asahutchinson,648,147,501,0.546296296,positive
+California,Gavin Newsom,0.619,gavinnewsom,763,297,466,0.221494102,positive
+Colorado,Jared Polis,0.534,jaredpolis,472,157,315,0.334745763,positive
+Conecticut,Ned Lamont,0.494,nedlamont,1331,420,911,0.368895567,positive
+Florida,Ron Desantis,0.496,rondesantisfl,784,192,592,0.510204082,positive
+Georgia,Brian Kemp,0.502,briankempga,3436,844,2592,0.508731083,positive
+Hawaii,David Ige,0.627,govhawaii,1752,502,1250,0.426940639,positive
+Idaho,Brad Little,0.598,governorlittle,436,76,360,0.651376147,positive
+Illinois,JB Pritzker,0.542,jbpritzker,1728,483,1245,0.440972222,positive
+Iowa,Kim Reynolds,0.503,kimreynoldsia,961,253,708,0.47346514,positive
+Kansas,Laura Kelly,0.478,laurakellyks,631,175,456,0.445324881,positive
+Maine,Janet Mills,0.508,janetmillsforme,355,77,278,0.566197183,positive
+Maryland,Larry Hogan,0.553,larryhogan,599,227,372,0.242070117,positive
+Massaschusetts,Charlie Baker,0.669,charliebakerma,214,45,169,0.579439252,positive
+Michigan,Gretchen Whitmer,0.533,gretchenwhitmer,1458,448,1010,0.385459534,positive
+Minnesota,Tim Walz,0.538,tim_walz,1109,292,817,0.473399459,positive
+Nevada,Steve Sisolak,0.494,stevesisolak,2375,534,1841,0.550315789,positive
+Nebraska,Pete Ricketts,0.592,rickettsforgov,130,33,97,0.492307692,positive
+New Hampshire,Chris Sununu,0.528,chrissununu,265,42,223,0.683018868,positive
+New Mexico,Michell Lujan Grisham,0.572,michelle4nm,1188,182,1006,0.693602694,positive
+New York,Andrew Cuomo,0.579,andrewcuomo,598,211,387,0.294314381,positive
+Northern Mariana Islands,Ralph Torres,0.6216,ltcnmi,0,0,0,0,neutral
+Ohio ,Mike DeWine,0.507,mikedewine,539,127,412,0.528756957,positive
+Oklahoma,Kevin Stitt,0.543,govstitt,584,151,433,0.482876712,positive
+Oregon,Kate Brown,0.501,katebrownforor,1690,371,1319,0.560946746,positive
+Pennsylvania,Tom Wolf,0.576,wolfforpa,1189,406,783,0.317073171,positive
+Rhode Island,Gina Raimondo,0.526,govraimondo,585,165,420,0.435897436,positive
+South Carolina,Henry McMaster,0.54,henrymcmaster,528,132,396,0.5,positive
+South Dakota,Kristi Noem,0.51,kristinoem,566,138,428,0.512367491,positive
+Tennessee,Bill Lee,0.596,billleetn,1016,142,874,0.720472441,positive
+Texas,Greg Abbott,0.558,gregabbott_tx,1074,292,782,0.456238361,positive
+Vermont,Phil Scott,0.544,phillscott4vt,0,0,0,0,neutral
+US Virgin Islands,Albert Bryan,0.545,albertbjr,139,12,127,0.827338129,positive
+Wisconsin,Tony Evers,0.496,tony4wi,1149,387,762,0.326370757,positive
+Wyoming,Mark Gordon,0.665,mark_gordon_wy,381,75,306,0.606299213,positive
+,,,,32913,8501,,0.456108825,
